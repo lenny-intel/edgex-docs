@@ -11,3 +11,5 @@
 | [0008 Secret Distribution](./adr/security/0008-Secret-Creation-and-Distribution.md)   | Creation and Distribution of Secrets   |
 | [0011 Device Service REST API](./adr/device-service/0011-DeviceService-Rest-API.md)   | The REST API for Device Services in EdgeX v2.x   |
 | [0013 Device Service Events via Message Bus](./adr/013-Device-Service-Events-Message-Bus.md)   | Device Services send Events via Message Bus   |
+| [0014 Secret Provider for All](./adr/014-Secret-Provider-For-All.md)   | Secret Provider for All EdgeX Services   |
+
